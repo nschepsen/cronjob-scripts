@@ -1,1 +1,0 @@
-Get here the latest suitable version: https://chromedriver.storage.googleapis.com/index.html
